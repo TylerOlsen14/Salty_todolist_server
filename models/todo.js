@@ -9,7 +9,7 @@ const TodoSchema = new Schema({
   task: {
     type: String
   },
-  DueDate: {
+  dueDate: {
     type: Number
   },
   done: {
